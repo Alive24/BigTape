@@ -1,6 +1,8 @@
 # BigTape
 This is the archive for code used for the project `BigTape` installed in `PingShan Art Museum`.
 ![](BigTape.jpg)
+---
+update: I uploaded a video here: https://www.youtube.com/watch?v=SyM3ul_wpzs
 
 ## Highlights
 - Running on three ESP32 modules with MicroPython, and communicate through HTTP on the local network.
